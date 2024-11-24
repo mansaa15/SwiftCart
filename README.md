@@ -2,6 +2,7 @@
 
 It's an E-Commerce website for selling stationery and gift items.
 
+
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { db } from "../firebase/firebase";
 import { collection, addDoc, getDocs } from "firebase/firestore";
-import '../adminpage.css';
+import '../AdminPage.css';
 
 function AdminPage() {
   const [productName, setProductName] = useState("");
